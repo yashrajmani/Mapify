@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Mapify</string>
+    <string name="welcome">welcome</string>
+    <string name="let_s_go">Let\'s Go !</string>
+    <string name="welcome2">WELCOME!</string>
+    <string name="start">START</string>
+    <string name="enter_start_point">Enter Start Point:</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
